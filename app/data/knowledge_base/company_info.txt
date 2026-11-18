@@ -1,0 +1,26 @@
+COMPANY NAME: Tech Solutions
+
+ABOUT US:
+Tech Solutions provides AI automation,
+software development and customer support solutions.
+
+OUR SERVICES:
+1. AI chatbot development.
+2. Voice AI assistants.
+3. RAG-based knowledge assistants.
+4. Business process automation.
+
+SUPPORT:
+Our customer support team is available
+Monday to Friday, 9 AM to 6 PM.
+
+REFUND POLICY:
+Customers can request a refund within 30 days of purchase.
+
+PRICING:
+Basic AI chatbot development starts at $500.
+Voice AI development starts at $1500.
+
+CONTACT:
+Email: support@example.com
+Phone: +1-800-555-0100
